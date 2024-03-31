@@ -59,7 +59,7 @@ You will need these env variables from the application settings:
 ```
 EVE_SSO_CLIENT_ID=Client ID
 EVE_SSO_SECRET=Secret Key
-EVE_SSO_CALLBACK_URL=Callback URL (This should be the domain you are hosting at or if run locally it should be http://localhost:3000)
+EVE_SSO_CALLBACK_URL=Callback URL (This should be the domain you are hosting at or if run locally it should be "http://url.domain.net/")
 ```
 
 ## Run locally
